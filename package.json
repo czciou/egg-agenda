@@ -1,0 +1,25 @@
+{
+  "name": "egg-agenda",
+  "version": "1.0.0",
+  "eggPlugin": {
+    "name": "agenda"
+  },
+  "dependencies": {
+    "agenda": "^2.0.0",
+    "await-first": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+    "egg",
+    "egg-plugin",
+    "eggPlugin",
+    "egg-plugin-agenda",
+    "egg-agenda",
+    "agenda"
+  ],
+  "_from": "https://github.com/czciou/egg-agenda.git",
+  "_resolved": "https://github.com/czciou/egg-agenda.git#master",
+  "license": "MIT"
+}
